@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main () {
-    std::cout << add(0, 42) << std::endl;
+    std::cout << add(5, 7) << std::endl;
     return 0;
 }
